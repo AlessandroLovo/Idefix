@@ -1,10 +1,10 @@
-Lista di cose da fare per preparare la barca per l'inverno.
+Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 giorni a seconda dell'intensità della pulizia che si desidera effettuare
 
 - [ ] Completato
 
 ## Resettare la lista di primo avviamento
 
-- [ ] Completato
+- [x] Completato
 
 ## Rimessaggio dissalatore
 
@@ -16,14 +16,22 @@ Lista di cose da fare per preparare la barca per l'inverno.
 
 - [ ] Lavare il motore con acqua dolce: utilizzare il secchio, pompando costantemente acqua dal pontile, che viene risucchiata dal motore attraverso l'apposita presa volante (è necessario aprire le valvole apposite)
 - [ ] Chiudere la valvola di presa a mare e di presa a mare volante
+- [ ] Chiudere la presa acqua di mare lavandino cucina (dentro vano motore)
 - [ ] Mettere le chiavi del motore dentro il vano motore
 - [ ] Mettere cartello 'presa a mare motore chiusa' sopra il tavolo
 
 ## Pulizia sotto coperta
 
-- [ ] Pulire frigo e svuotare l'acqua di condensa (valvola rossa sul tubo di plastica sotto il paiolo della cucina)
+- [ ] Rimuovere e lavare / piegare
+	- [ ] teli di prua e poppa
+	- [ ] asciugamani
+	- [ ] stracci
+- [ ] Frigorifero
+	- [ ] Pulire
+	- [ ] svuotare l'acqua di condensa (valvola rossa sul tubo di plastica sotto il paiolo della cucina)
+	- [ ] Bloccare il coperchio in modo che resti aperto
 - [ ] Pulire i fornelli
-- [ ] **Rimuovere da cambusa e stipetti tutto il cibo aperto che può andare a male**, inclusi pacchi di pastasciutta aperti.
+- [ ] **Rimuovere da cambusa, stipetti e borse appese tutto il cibo aperto che può andare a male**, inclusi pacchi di pastasciutta aperti.
 - [ ] Idealmente, svuotare, pulire e riempire tutti gli stipetti e gavoni della barca
 - [ ] Rimuovere tutte le tracce di muffa dal soffitto (vanno via facilmente con spugna e sgrassatore)
 - [ ] Pulire il bagno di poppa
@@ -49,6 +57,9 @@ Lista di cose da fare per preparare la barca per l'inverno.
 - [ ] Rimuovere la ciambella, bobina e luce lanciabile e metterle in cabina di poppa
 - [ ] Rimuovere il cesto di vimini e metterlo in cabina di poppa
 - [ ] Rimuovere il tendalino, piegarlo e metterlo in cabina di poppa
+- [ ] Rimuovere i porta bicchieri in pozzetto e riporli in cabina di poppa
+- [ ] Rimuovere le maniglie dei winch e riporle sotto il sedile del navigatore
+- [ ] Rimuovere il coltello taglia cime e riporlo nello stipetto in quadrato a sx
 - [ ] Armare le sartie volanti
 - [ ] Armare lo stralletto di prua
 - [ ] Fissare alla falchetta le drizze di fiocco e spi
@@ -72,9 +83,9 @@ Lista di cose da fare per preparare la barca per l'inverno.
 ### Chiudere tutte le prese a mare
 
 - [ ] Bagno poppa
-- [ ] Acqua di mare lavandino cucina (dentro vano motore)
 - [ ] Dissalatore
 - [ ] Bagno prua
+- [ ] Eventualmente controllare le prese a mare nel vano motore
 
 ### Chiudere tutti i boccaporti
 
@@ -95,6 +106,13 @@ Lista di cose da fare per preparare la barca per l'inverno.
 ## Regolare gli ormeggi in modo che la barca sia più lontana dal pontile
 
 - [ ] Completato
+
+## Ultime cose
+
+- [ ] Asciugare l'acqua residua nel lavandino della cucina
+- [ ] Rimuovere eventuale spazzatura
+- [ ] Chiudere a chiave il tambuccio
+- [ ] Foto della barca pronta per l'inverno :)
 
 ---
 
