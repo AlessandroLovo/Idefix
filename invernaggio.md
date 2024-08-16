@@ -1,21 +1,43 @@
-# Invernaggio
-
 Lista di cose da fare per preparare la barca per l'inverno.
+
+- [ ] Completato
+
+## Resettare la lista di primo avviamento
 
 - [ ] Completato
 
 ## Rimessaggio dissalatore
 
-- [ ] Completato
+- [x] Completato
 
-> Sequire le istruzioni nel manuale della Schenken (dentro il tavolo del navigatore). 
+> Seguire le istruzioni nel manuale della Schenken (dentro il tavolo del navigatore). 
  
 ## Rimessaggio motore
 
-- [ ] Lavare il motore con acqua dolce
-- [ ] Chiudere la valvola di presa a mare
+- [ ] Lavare il motore con acqua dolce: utilizzare il secchio, pompando costantemente acqua dal pontile, che viene risucchiata dal motore attraverso l'apposita presa volante (è necessario aprire le valvole apposite)
+- [ ] Chiudere la valvola di presa a mare e di presa a mare volante
 - [ ] Mettere le chiavi del motore dentro il vano motore
 - [ ] Mettere cartello 'presa a mare motore chiusa' sopra il tavolo
+
+## Pulizia sotto coperta
+
+- [ ] Pulire frigo e svuotare l'acqua di condensa (valvola rossa sul tubo di plastica sotto il paiolo della cucina)
+- [ ] Pulire i fornelli
+- [ ] **Rimuovere da cambusa e stipetti tutto il cibo aperto che può andare a male**, inclusi pacchi di pastasciutta aperti.
+- [ ] Idealmente, svuotare, pulire e riempire tutti gli stipetti e gavoni della barca
+- [ ] Rimuovere tutte le tracce di muffa dal soffitto (vanno via facilmente con spugna e sgrassatore)
+- [ ] Pulire il bagno di poppa
+	- [ ] wc
+	- [ ] lavandino
+	- [ ] specchio
+	- [ ] pavimento
+- [ ] Pulire il bagno di prua
+	- [ ] lavandino
+	- [ ] specchio
+	- [ ] pavimento
+- [ ] Pulire i paioli, possibilmente spruzzandoli con il trattamento per legno
+- [ ] Pulire la sentina sotto i paioli, rimuovendo eventuale acqua presente
+- [ ] Rimontare i paioli
 
 ## Preparazione sopra coperta
 
@@ -35,15 +57,6 @@ Lista di cose da fare per preparare la barca per l'inverno.
 - [ ] Coprire i winch
 - [ ] Chiudere la porta USB sopra il timone
 - [ ] Coprire strumenti e pilota automatico (i tappi sono in cabina di poppa)
-
-## Pulizia sotto coperta
-
-- [ ] Pulire frigo e svuotare l'acqua di condensa (valvola rossa sul tubo di plastica sotto il paiolo della cucina)
-- [ ] Pulire i fornelli
-- [ ] **Rimuovere da cambusa e stipetti tutto il cibo aperto che può andare a male**, inclusi pacchi di pastasciutta aperti.
-- [ ] Idealmente, svuotare, pulire e riempire tutti gli stipetti e gavoni della barca
-- [ ] Rimuovere tutte le tracce di muffa dal soffitto (vanno via facilmente con spugna e sgrassatore)
-- [ ] Pulire i paioli, possibilmente spruzzandoli con il trattamento per legno
 
 ## Serbatoi
 
@@ -75,6 +88,7 @@ Lista di cose da fare per preparare la barca per l'inverno.
 
 - [ ] Disconnettere dal pontile
 - [ ] Spegnere la colonnina del pontile usando il badge
+- [ ] Spegnere tutti gli interruttori del quadro elettrico
 - [ ] Mettere i due selettori batteria su 'OFF'
 
 
