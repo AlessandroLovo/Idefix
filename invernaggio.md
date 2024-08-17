@@ -68,6 +68,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Coprire i winch
 - [ ] Chiudere la porta USB sopra il timone
 - [ ] Coprire strumenti e pilota automatico (i tappi sono in cabina di poppa)
+- [ ] Ritirare il tavolo in pozzetto
 
 ## Serbatoi
 
