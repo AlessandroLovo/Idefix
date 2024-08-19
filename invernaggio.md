@@ -10,7 +10,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 
 - [x] Completato
 
-> Seguire le istruzioni nel manuale della Schenken (dentro il tavolo del navigatore). 
+> Seguire le istruzioni nel manuale della Schenker (dentro il tavolo del navigatore). 
  
 ## Rimessaggio motore
 
@@ -33,7 +33,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Pulire i fornelli
 - [ ] **Rimuovere da cambusa, stipetti e borse appese tutto il cibo aperto che può andare a male**, inclusi pacchi di pastasciutta aperti.
 - [ ] Idealmente, svuotare, pulire e riempire tutti gli stipetti e gavoni della barca
-- [ ] Rimuovere tutte le tracce di muffa dal soffitto (vanno via facilmente con spugna e sgrassatore)
+- [ ] Rimuovere tutte le tracce di muffa dal soffitto (vanno via facilmente con spugna e sgrassatore, ma meglio usare qualcosa con candeggina, che uccide eventuali spore rimaste)
 - [ ] Pulire il bagno di poppa
 	- [ ] wc
 	- [ ] lavandino
@@ -86,12 +86,12 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Bagno poppa
 - [ ] Dissalatore
 - [ ] Bagno prua
-- [ ] Eventualmente controllare le prese a mare nel vano motore
+- [ ] Controllare che le prese a mare nel vano motore siano chiuse
 
 ### Chiudere tutti i boccaporti
 
-- [ ] 4 boccaporti laterali
-- [ ] Boccaporto pozzetto
+- [ ] 4 osteriggi laterali
+- [ ] Osteriggio pozzetto
 - [ ] Passauomo prua
 - [ ] Passauomo bagno prua
 - [ ] Passauomo quadrato
@@ -100,6 +100,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 
 - [ ] Disconnettere dal pontile
 - [ ] Spegnere la colonnina del pontile usando il badge
+- [ ] Lasciare il badge in barca
 - [ ] Spegnere tutti gli interruttori del quadro elettrico
 - [ ] Mettere i due selettori batteria su 'OFF'
 
