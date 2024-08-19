@@ -4,11 +4,11 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 
 ## Resettare la lista di primo avviamento
 
-- [x] Completato
+- [ ] Completato
 
 ## Rimessaggio dissalatore
 
-- [x] Completato
+- [ ] Completato
 
 > Seguire le istruzioni nel manuale della Schenker (dentro il tavolo del navigatore). 
  
