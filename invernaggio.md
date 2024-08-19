@@ -69,6 +69,9 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Chiudere la porta USB sopra il timone
 - [ ] Coprire strumenti e pilota automatico (i tappi sono in cabina di poppa)
 - [ ] Ritirare il tavolo in pozzetto
+- [ ] vergicare che l'acora sia legata al pulpito.
+- [ ] mettere il tangone sottocoperta assicurandosi non possa rovinare i legni in caso di rollio.
+- [ ] verificare che le carrucole di ronvio di scotta e braccio spi sioano sospese.
 
 ## Serbatoi
 
@@ -114,6 +117,8 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Asciugare l'acqua residua nel lavandino della cucina
 - [ ] Rimuovere eventuale spazzatura
 - [ ] Chiudere a chiave il tambuccio
+- [ ] mettere la tovaglia cerata sul tavolo in qudrato per proteggerne il legno da eventuali infiltrazioni d'acqua dal passauomo
+- [ ] verificare che Giovanni Pense abbia una copia delle chiavi.
 - [ ] Foto della barca pronta per l'inverno :)
 
 ---
