@@ -39,6 +39,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 	- [ ] lavandino
 	- [ ] specchio
 	- [ ] pavimento
+	- [ ] Se necessario, vuotare acqua dolce nel wc e scaricare, in modo da eliminare l'acqua di porto dai tubi
 - [ ] Pulire il bagno di prua
 	- [ ] lavandino
 	- [ ] specchio
@@ -69,9 +70,9 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Chiudere la porta USB sopra il timone
 - [ ] Coprire strumenti e pilota automatico (i tappi sono in cabina di poppa)
 - [ ] Ritirare il tavolo in pozzetto
-- [ ] vergicare che l'acora sia legata al pulpito.
-- [ ] mettere il tangone sottocoperta assicurandosi non possa rovinare i legni in caso di rollio.
-- [ ] verificare che le carrucole di ronvio di scotta e braccio spi sioano sospese.
+- [ ] Verificare che l'ancora sia legata al pulpito
+- [ ] Possibilmente mettere il tangone sottocoperta assicurandosi non possa rovinare i legni in caso di rollio.
+- [ ] Verificare che tutte le carrucole di siano sospese.
 
 ## Serbatoi
 
@@ -89,6 +90,7 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Bagno poppa
 - [ ] Dissalatore
 - [ ] Bagno prua
+- [ ] Scarico lavandino cucina
 - [ ] Controllare che le prese a mare nel vano motore siano chiuse
 
 ### Chiudere tutti i boccaporti
@@ -117,8 +119,8 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Asciugare l'acqua residua nel lavandino della cucina
 - [ ] Rimuovere eventuale spazzatura
 - [ ] Chiudere a chiave il tambuccio
-- [ ] mettere la tovaglia cerata sul tavolo in qudrato per proteggerne il legno da eventuali infiltrazioni d'acqua dal passauomo
-- [ ] verificare che Giovanni Pense abbia una copia delle chiavi.
+- [ ] Mettere la tovaglia cerata o una bacinella sul tavolo in quadrato per proteggerne il legno da eventuali infiltrazioni d'acqua dal passauomo
+- [ ] Verificare che Giovanni Pensé abbia una copia delle chiavi
 - [ ] Foto della barca pronta per l'inverno :)
 
 ---
@@ -128,3 +130,18 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 Scrivere qui le note di chi effettua la procedura di invernaggio (tenere in alto la nota più recente)
 
 ## Agosto 2024
+
+### Equipaggio che ha effettuato l'invernaggio
+
+Ale, Betto Claudia
+### Annotazioni
+
+- Tutti gli stipetti in quadrato e cucina sono stati svuotati, puliti e riempiti. Non i gavoni.
+- Tutto il soffitto è stato passato con l'amuchina
+- Gli elastici del mezzo marinaio e quelli che tenevano disarmati sartie volanti e stralletto di prua sono messi insieme agli altri elastici nello stipetto in quadrato a sx
+- Abbiamo lavato la catena dell'ancora con acqua dolce (spruzzata nel gavone)
+- Non abbiamo testato la nuova scheda elettronica del frigo. È ancora impacchettata (pacco non aperto) e messa sul piano della cucina
+- Abbiamo comprato un nuovo set di inserti vari, che è in un astuccio nero in `Q_d_S1`
+- Abbiamo sostituito il tendistrallo di poppa con un arridatoio gigante. In questo modo OndaBlu può regolare la tensione quando verranno per aggiustare le sartie
+- Abbiamo legato un telo di plastica alla base dell'albero (all'esterno) per limitare le infiltrazioni
+- Scotte di fiocco e rullafiocco sono appesi in quadrato a sx
