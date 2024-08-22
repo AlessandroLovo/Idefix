@@ -145,3 +145,4 @@ Ale, Betto Claudia
 - Abbiamo sostituito il tendistrallo di poppa con un arridatoio gigante. In questo modo OndaBlu può regolare la tensione quando verranno per aggiustare le sartie
 - Abbiamo legato un telo di plastica alla base dell'albero (all'esterno) per limitare le infiltrazioni
 - Scotte di fiocco e rullafiocco sono appesi in quadrato a sx
+- Abbiamo lavato le coperture dei 4 cuscinoni in quadrato e di tutti i cuscini piccoli con il logo ideefix
