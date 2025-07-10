@@ -72,7 +72,11 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 - [ ] Ritirare il tavolo in pozzetto
 - [ ] Verificare che l'ancora sia legata al pulpito
 - [ ] Possibilmente mettere il tangone sottocoperta assicurandosi non possa rovinare i legni in caso di rollio.
-- [ ] Verificare che tutte le carrucole di siano sospese.
+- [ ] Verificare che tutte le carrucole siano sospese.
+- [ ] Con una sagoletta, legare al boma le cime in coperta dagli strozzascotte all'albero in modo da sollevarle
+- [ ] Sollevare o rimuovere le sagolette dei carrelli di fiocco
+- [ ] Recuperare e legare alle draglie le due trappe in modo che non restino in acqua
+- [ ] Legare alle draglie l'eccesso delle cime d'ormeggio in modo che non stiano in acqua né appoggiate sul ponte
 
 ## Serbatoi
 
