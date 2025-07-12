@@ -133,11 +133,57 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 
 Scrivere qui le note di chi effettua la procedura di invernaggio (tenere in alto la nota più recente)
 
+## Luglio 2025
+
+### Equipaggio
+
+Ale
+
+### Annotazioni
+
+Quest'anno la barca non è stata utilizzata, in particolare
+- non è stato mai acceso il motore
+- non sono state armate le vele
+- non è stato toccato il dissalatore. La Schenker dice che i prodotti conservanti durano solo un anno e quindi dovremmo rifare l'invernaggio. Però al momento non abbiamo i prodotti necessari.
+- non è stata fatta carena, ma il sommozzatore ha detto che, a parte l'elica, lo scafo è pulito.
+
+Al contrario
+- Fatta pulizia esterna
+- Caricate batterie
+- ho usato le scottine carrelli fiocco per sollevare le cime dalla coperta.
+
+Durante la manutenzione in queste settimane ho:
+- montato il nuovo tendi-paterazzo Nemo
+- riorganizzato la cassetta degli attrezzi
+- rattoppato la dispersione elettrica sul quadro. Più dettagli nel giornale di bordo.
+
+Restano cose importanti da risolvere prima di poter navigare l'anno prossimo. In ordine di urgenza:
+- Mettere in barca i nuovi documenti
+  - nuovi proprietari
+  - assicurazione
+  - certificato di radiofonista
+- Impianto elettrico:
+  - Aprire la guaina nera, esporre il fascio di cavi e ispezionare. Sostituire eveentuali cavi marci.
+  - Identificare cosa alimentano i due fili rossi che ho tagliato per eliminare la dispersione
+  - Controllare alimentazione luci di via di prua
+- Fare revisione zattera di salvataggio
+- OndaBlu deve sistemare le sartie e le infitrazioni d'acqua dalla mastra
+- Sostituire scheda madre frigo
+- Sostituire amantiglio
+- Sostituire cuscinetti wich
+- Dissalatore
+  - Comprare nuovi prodotti pulenti e cartucce filtri
+  - cambiare tubo acqua dolce con uno a norma
+- Cambiare / Anodizzare catena ancora
+
+---
+
 ## Agosto 2024
 
 ### Equipaggio che ha effettuato l'invernaggio
 
 Ale, Betto Claudia
+
 ### Annotazioni
 
 - Tutti gli stipetti in quadrato e cucina sono stati svuotati, puliti e riempiti. Non i gavoni.
