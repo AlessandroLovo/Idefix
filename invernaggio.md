@@ -133,6 +133,29 @@ Lista di cose da fare per preparare la barca per l'inverno. Tempo stimato 1-3 gi
 
 Scrivere qui le note di chi effettua la procedura di invernaggio (tenere in alto la nota più recente)
 
+## Agosto 2026
+### Equipaggio
+
+Betto, Claudia
+
+### Annotazioni
+
+- Svuoato e pulito gavone di poppa dx, era pieno di morchia
+	- All'avviamento 2027, scambiare di posto cime e ancora di rispetto, così lo schifo va sull'ancora o sul bidone di plastica invece che inzuppare le cime
+- Ritirato anemometro da testa d'albero: bisogna cambiare la banderuola dell'anemoscopio ché è gonfia di ruggine
+- Lavando la barca entra acqua dalla mastra, ma l'albero è asciutto. Messa bacinella e cerata sul tavolo per protezione. Possibile che l'acqua entri dalla mastra e poi goccioli sotto la tuga prima di entrare sotto coperta...
+- Messo spi nel sacco grande, il sacco piccolo è ancora a bordo
+- Rimosso anta vano pentole sotto fornelli e porta telefoni sopra la bussola (da sistemare durante l'inverno)
+- Il bulbo continua a fare ruggine...
+
+#### Da fare all'avviamento 2027
+- Rimpiazzare estintore scarico (scala)
+- Sostituire bombola gas di scorta (ora è vuota)
+- Montare attacco rapido sulla presa risciacquo motore in modo da non dover usare il secchio
+- RINA
+- Tagliando motore completo
+- Cambio cuffia piede albero
+
 ## Luglio 2025
 
 ### Equipaggio
